@@ -17,7 +17,8 @@ Sono un **Ingegnere Biomedico** mi sto specializzando nella **Robotica Medica e 
 
 ### 🚀 Progetti in Evidenza
 
-* **🧠 [BreastMNIST AI Classifier](https://github.com/Gian021/breastmnist-breast-cancer-ai):** Modello di Deep Learning in PyTorch per la classificazione automatizzata di immagini diagnostiche oncologiche del seno (MedMNIST).
+- **🧠 [BreastMNIST AI Classifier](https://github.com/Gian021/breastmnist-breast-cancer-ai):** Modello di Deep Learning in PyTorch per la classificazione automatizzata di immagini diagnostiche oncologiche del seno sul dataset MedMNIST.
+- **👁️ [Gaze Direction & Vergence Analysis](https://github.com/Gian021/gaze-tracking-vergence-analysis):** Pipeline MATLAB per l'elaborazione di segnali oculometrici, analisi della vergenza oculare e densità di fissazione per interfacce HRI e robotica chirurgica.
 ---
 
 ### ⛵ Competenze Trasversali & Agonismo
