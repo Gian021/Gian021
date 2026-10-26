@@ -1,16 +1,33 @@
-## Hi there 👋
+Ciao, sono Gian 👋
 
-<!--
-**Gian021/Gian021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Biomedical Engineer | 🤖 Medical & Surgical Robotics | ⛵ Professional Sailor
 
-Here are some ideas to get you started:
+Sono un **Ingegnere Biomedico** mi sto specializzando nella **Robotica Medica e Chirurgica**, con l'obiettivo di progettare e sviluppare sistemi robotici ed algoritmi di IA a supporto del chirurgo in sala operatoria. Svolgo l'attività lavorativa nel settore in parallelo agli studi accademici e gareggio come **velista professionista** ad alto livello.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Ambiti di Specializzazione & Competenze
+
+* **Robotica Chirurgica & Assistiva:** Cinematica e dinamica dei manipolatori, interazione uomo-robot in ambiente operatorio.
+* **AI & Computer Vision:** PyTorch, TensorFlow, Scikit-Learn, segmentazione e classificazione di immagini radiologiche (BreastMNIST/MedMNIST).
+* **Modellazione, CAD & FEA:** SolidWorks (progettazione meccanica).
+* **Linguaggi & Framework:** Python, C,LaTeX.
+
+---
+
+### 🚀 Progetti in Evidenza
+
+* **🧠 [BreastMNIST AI Classifier](https://github.com/Gian021/breastmnist-breast-cancer-ai):** Modello di Deep Learning in PyTorch per la classificazione automatizzata di immagini diagnostiche oncologiche del seno (MedMNIST).
+---
+
+### ⛵ Competenze Trasversali & Agonismo
+
+La mia carriera nel **professionismo velico** integrata al percorso ingegneristico ha sviluppato doti fondamentali per contesti ad alta criticità:
+* **Risk Management & Decision-Making:** Risposta rapida e strategica a variabili impreviste sotto forte pressione.
+* **High-Performance Teamwork:** Comunicazione chiara e coordinamento in tempo reale con il team.
+* **Gestione della Complessità:** Estrema disciplina nel bilanciare impegni agonistici, lavorativi e di studi accademici.
+
+---
+
+### 📬 Contatti
+- **Email:** gianmarcoventuri0@icloud.com
