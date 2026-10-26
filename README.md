@@ -10,7 +10,7 @@ Sono un **Ingegnere Biomedico** mi sto specializzando nella **Robotica Medica e 
 
 * **Robotica Chirurgica & Assistiva:** Cinematica e dinamica dei manipolatori, interazione uomo-robot in ambiente operatorio.
 * **AI & Computer Vision:** PyTorch, TensorFlow, Scikit-Learn, segmentazione e classificazione di immagini radiologiche (BreastMNIST/MedMNIST).
-* **Modellazione, CAD & FEA:** SolidWorks (progettazione meccanica).
+* **Modellazione, CAD :** SolidWorks (progettazione meccanica).
 * **Linguaggi & Framework:** Python, C,LaTeX.
 
 ---
